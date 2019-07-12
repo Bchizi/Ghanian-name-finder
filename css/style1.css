@@ -1,0 +1,14 @@
+.container {
+	background-image: url(http://thiswallpaper.com/cdn/hdwallpapers/325/savana%20tree%20sunset%20high%20resolution%20wallpaper.jpg);
+	background-size: cover;
+}
+
+.jumbotron {
+	opacity: 0.8;
+}
+.row {
+	opacity: 0.8;
+}
+.col-md-4 panel-default {
+	float: right;
+}
