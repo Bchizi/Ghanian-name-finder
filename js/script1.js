@@ -14,5 +14,12 @@ function day() {
     console.log(answer);
     return (Math.floor(answer));
 
-}
+} function leo() {
+    answer = day();
+    var radio = document.getElementsByName("gender");
+    if (radio[0].checked == true) {
+        var gender = "female";
+    } else if (radio[1].checked == true) {
+        var gender = "male";
+    }
 
