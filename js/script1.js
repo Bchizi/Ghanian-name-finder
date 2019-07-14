@@ -22,4 +22,23 @@ function day() {
     } else if (radio[1].checked == true) {
         var gender = "male";
     }
+    switch (gender) {
+        case gender === "male":
+            if (answer === 0) {
+                alert('you were born on a SUNDAY and your Aka name is KWASI');
+            } else if (answer === 1) {
+                alert('you were born on a MONDAY and your Aka name  is KWADWO');
+            } else if (answer === 2) {
+                alert('you were born on a TEUSDAY and your Aka name is KWABENA');
+            } else if (answer === 3) {
+                document.write('you were born on a WEDNESDAY and your Aka name is KWAKU');
+            } else if (answer === 4) {
+                document.write('you were born on a THURSDAY and your Aka name is YAW');
+            } else if (answer === 5) {
+                document.write('you were born on a FRIDAY and your Aka name is KOFI');
+            } else if (answer === 6) {
+                document.write('you were born on a SATURDAY and your Aka name is KWAME');
+            } else {
+                console.log("pass");
+            }
 
