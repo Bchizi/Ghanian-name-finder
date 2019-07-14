@@ -8,9 +8,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/style1.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="js/script1.js"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
-            integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
     </head>
 
     <body>
@@ -70,18 +69,27 @@
                         <div class=" panel-body">
                             <h2>Please input your details below</h2>
 
-                            <form action="/action_page.php">
-                                Year:<br>
-                                <input type="text" name="Year" value="">
-                                <br>
-                                Month:<br>
-                                <input type="text" name="Month" value="">
-                                <br>
-                                Day:<br>
-                                <input type="text" name="Day" value="">
-                                <br><br>
-                                <input type="submit" value="Submit">
-                            </form>
+                            Century:<br>
+                            <input type="number" name="century" value="" id="century">
+                            <br>
+                            Year:<br>
+                            <input type="number" name="Year" value="" id="year">
+                            <br>
+                            Month:<br>
+                            <input type="number" name="Month" value="" id="month">
+                            <br>
+                            Day:<br>
+                            <input type="number" name="Day" value="" id="day">
+                            <br>
+                            Gender:<br>
+                            <input type="radio" name="gender" value="" id="gender"> Female
+                            <br>
+                            <input type="radio" name="gender" value="" id="gender"> Male
+                            <br><br>
+                            <!-- <input type="submit" value="Submit" > -->
+                            <button class="btn" onclick="day();">Submit</button>
+                            <h1 id="result">0</h1>
+
 
                         </div>
                     </div>
@@ -98,11 +106,6 @@
                 <p>Best quality service is our flag. Enjoy delicious tatste!</p>
             </div>
         </div>
-        <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
-        <script src="" async defer></script>
         </div>
     </body>
 
