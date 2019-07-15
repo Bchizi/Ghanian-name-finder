@@ -2,7 +2,7 @@
 ##### {does simple calculations}.
 #### By **Leon Bichanga**
 ## Description 
-it d# NAME CALCULATOR
+# NAME CALCULATOR
 ##### {does simple interpretation of your birthdate to an an aka day name}
 #### By **Leon Bichanga**
 ## Description 
