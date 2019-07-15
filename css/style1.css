@@ -4,23 +4,22 @@
 }
 
 .jumbotron {
-	background-color: #18fa36
 	opacity: 0.8;
-
-}
-#h1{
-	/* font-family: 'Indie Flower', cursive; */
-/* /* font-family: 'Pacifico', cursive; */
-font-family: 'Permanent Marker', cursive; 
-background-color: #fa9018
-	
-}
-.p1{
 	font-family: 'Pacifico', cursive;
 }
+#h1 {
+	/* font-family: 'Indie Flower', cursive; */
+	/* /* font-family: 'Pacifico', cursive; */
+	font-family: 'Permanent Marker', cursive;
+	background-color: #fa9018;
+}
+
 .row {
 	opacity: 0.8;
+	font-family: 'Indie Flower', cursive;
+	font-size: 140%;
 }
 .col-md-4 panel-default {
 	float: right;
+	background-color: #30e3ca;
 }
