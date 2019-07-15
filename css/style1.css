@@ -17,7 +17,8 @@
 .row {
 	opacity: 0.8;
 	font-family: 'Indie Flower', cursive;
-	font-size: 140%;
+	font-size: 150%;
+	font-style: oblique;
 }
 .col-md-4 panel-default {
 	float: right;
