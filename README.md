@@ -40,9 +40,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.oes simple math calculations which include sum, substraction, multiplaction, divide and print  each on the screen after calculation.
 ##Setup
 *input data in the prompt that pops up
-## Technologies used
-*HTML
-*JAVASCRIPT
 ## Contact
 *leonbichanga@gmail.com
 ##Licence
