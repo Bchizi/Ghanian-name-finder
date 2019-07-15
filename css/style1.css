@@ -4,7 +4,19 @@
 }
 
 .jumbotron {
+	background-color: #18fa36
 	opacity: 0.8;
+
+}
+#h1{
+	/* font-family: 'Indie Flower', cursive; */
+/* /* font-family: 'Pacifico', cursive; */
+font-family: 'Permanent Marker', cursive; 
+background-color: #fa9018
+	
+}
+.p1{
+	font-family: 'Pacifico', cursive;
 }
 .row {
 	opacity: 0.8;
