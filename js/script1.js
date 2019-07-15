@@ -42,3 +42,27 @@ function day() {
                 console.log("pass");
             }
 
+            break;
+        case gender == "female":
+            if (answer == 0) {
+                document.write('you were born on a SUNDAY and your Aka name  is AKOSUA');
+            } else if (answer == 1) {
+                document.write('you were born on a SUNDAY and your Aka name  is ADWAO');
+            } else if (answer == 2) {
+                document.write('you were born on a SUNDAY and your Aka name  is ABENAA');
+            } else if (answer == 3) {
+                document.write('you were born on a SUNDAY and your Aka name  is AKUA');
+            } else if (answer == 4) {
+                document.write('you were born on a SUNDAY and your Aka name  is YAA');
+            } else if (answer == 5) {
+                document.write('you were born on a SUNDAY and your Aka name  is AFUA');
+            } else if (answer == 6) {
+                document.write('you were born on a SUNDAY and your Aka name  is AMA');
+            } else {
+                console.log("pass two");
+            }
+        default:
+        // console.log("pass");
+    }
+
+}
