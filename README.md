@@ -2,17 +2,18 @@
 ##### {does simple calculations}.
 #### By **Leon Bichanga**
 ## Description 
-it d# WEB CALCULATOR
-##### {does simple calculations}.
+it d# NAME CALCULATOR
+##### {does simple interpretation of your birthdate to an an aka day name}
 #### By **Leon Bichanga**
 ## Description 
-it does simple math calculations which include sum, substraction, multiplaction, divide and print  each on the screen after calculation.
+it calculates the actuall day of the week andgives an out put of your aka name.
 ##Setup
-*input data in the prompt that pops up
+*fill in the form 
 ## Technologies used
 *HTML
+*CSS
+*jAVASCRIPT
 
-*JAVASCRIPT
 ## Contact
 *leonbichanga@gmail.com
 ##Licence
