@@ -6,15 +6,19 @@
 ##### {does simple interpretation of your birthdate to an an aka day name}
 #### By **Leon Bichanga**
 ## Description 
-it calculates the actuall day of the week andgives an out put of your aka name.
+It calculates the actuall day of the week andgives an out put of your aka name.
+
 ##Setup
 *fill in the form 
+
 ##BDD
 The user is suppost to put in input through the form on the User interface. the data will then run in the back end and be calculated to give a digit of 0-1 which will alert an AkA name.
+
 ## Technologies used
 *HTML
 *CSS
 *jAVASCRIPT
+
 ##BUGS
 the data is running till the calcutaion part but not bringing up the pop up of the AKA name.
 
